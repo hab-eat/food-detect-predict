@@ -1,0 +1,6 @@
+train: /content/food/train/images
+val: /content/food/val/images
+
+nc: 8
+
+names: ['01011001', '01012001', '01012002', '01012003', '01012004', '01012005', '01012006', '01013001']
