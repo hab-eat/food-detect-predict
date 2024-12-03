@@ -16,7 +16,6 @@ chicken
 chili_crab
 chocolate
 churros
-class_names.txt
 coffee_hot
 coffee_ice
 cookie
