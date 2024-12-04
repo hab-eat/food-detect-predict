@@ -1,0 +1,15 @@
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95)
+                   all       1317       1355      0.926      0.889      0.948       0.82
+   Chest Press machine         82         82      0.871       0.78      0.878      0.774
+         Lat Pull Down         90         92      0.977      0.914      0.985      0.837
+     Seated Cable Rows         74         81      0.947      0.901      0.955      0.792
+      arm curl machine         99        101      0.948      0.898      0.978      0.867
+     chest fly machine         83         85      0.925      0.873      0.932      0.733
+      chinning dipping        135        149      0.879      0.919      0.953      0.891
+lateral raises machine         80         81      0.885      0.877       0.92      0.739
+         leg extension         70         72      0.859      0.917      0.941      0.836
+             leg press        165        172       0.97      0.925      0.978       0.87
+      reg curl machine        214        220      0.985       0.91      0.985      0.885
+    seated dip machine         76         78      0.916      0.782      0.926      0.756
+shoulder press machine         87         87      0.916      0.874      0.915      0.813
+         smith machine         55         55      0.962      0.982      0.976       0.86
