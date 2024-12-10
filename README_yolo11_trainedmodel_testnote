@@ -1,3 +1,7 @@
-1. Prepare your own dataset to test.
-2. Change direction to your datasets. (cell 1, cell 2)
-3. Change "sources" direction to test your images.
+1. Prepare models. -> "selectstart-food-dataset" branch -> 'food', 'gym' models. 
+
+2. Prepare your own dataset to test.
+3. Change direction to your datasets. (cell 1, cell 2)
+
+4. Change "model" direction to test download models.
+5. Change "sources" direction to test your images. (cell 4)
